@@ -1,0 +1,12 @@
+Device Info Report
+-------------------
+Device Model: SAMPLE_DEVICE
+Build Version: 12345
+Serial Number: SAMPLE_SERIAL_1234
+ROM Build ID: SAMPLE_ROM_BUILD
+TalkBack Version: versionName=999.9.9
+Switch Access Version: versionName=888.8.8
+
+Timestamp: 2025-07-10 15:59:17
+Regression: No, No issue observed in other app/build version so far
+F/R: 5/5

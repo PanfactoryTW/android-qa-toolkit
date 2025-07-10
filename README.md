@@ -31,6 +31,18 @@ Used for:
 - Designed for local use only. Nothing leaves your machine.
 
 ---
+## Demo Mode
+
+For demonstration or portfolio purposes, a simulated version is available:  
+`demo_android_qa_toolkit.py`
+
+This script does not require a real device. It prints simulated `[INFO]` output with realistic delays and generates:
+
+- a fake screen recording filename  
+- a fake bugreport path  
+- a mock device report `.txt` file with placeholder data
+
+All generated files are stored in:
 
 ## Security & Legal Disclaimer
 
